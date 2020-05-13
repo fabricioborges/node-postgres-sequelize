@@ -1,0 +1,21 @@
+{
+  "name": "y",
+  "version": "y",
+  "description": "y",
+  "main": "src/server.js",
+  "repository": "y",
+  "author": "y",
+  "license": "y",
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.3",
+    "pg": "^8.1.0",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^5.21.8",
+    "sequelize-cli": "^5.5.1"
+  },
+  "scripts": {
+    "dev": "nodemon src/serve.js"
+  }
+}
