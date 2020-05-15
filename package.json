@@ -1,11 +1,8 @@
 {
-  "name": "y",
-  "version": "y",
-  "description": "y",
-  "main": "src/server.js",
-  "repository": "y",
-  "author": "y",
-  "license": "y",
+  "name": "sqlnode",
+  "version": "1.0.0",
+  "main": "src/server.js",  
+  "license": "MIT",
   "private": true,
   "dependencies": {
     "express": "^4.17.1",
